@@ -1,0 +1,16 @@
+D:\csTemelleri\console-programming\bin\Debug\net5.0\console-programming.exe
+D:\csTemelleri\console-programming\bin\Debug\net5.0\console-programming.deps.json
+D:\csTemelleri\console-programming\bin\Debug\net5.0\console-programming.runtimeconfig.json
+D:\csTemelleri\console-programming\bin\Debug\net5.0\console-programming.runtimeconfig.dev.json
+D:\csTemelleri\console-programming\bin\Debug\net5.0\console-programming.dll
+D:\csTemelleri\console-programming\bin\Debug\net5.0\ref\console-programming.dll
+D:\csTemelleri\console-programming\bin\Debug\net5.0\console-programming.pdb
+D:\csTemelleri\console-programming\obj\Debug\net5.0\console-programming.csprojAssemblyReference.cache
+D:\csTemelleri\console-programming\obj\Debug\net5.0\console-programming.GeneratedMSBuildEditorConfig.editorconfig
+D:\csTemelleri\console-programming\obj\Debug\net5.0\console-programming.AssemblyInfoInputs.cache
+D:\csTemelleri\console-programming\obj\Debug\net5.0\console-programming.AssemblyInfo.cs
+D:\csTemelleri\console-programming\obj\Debug\net5.0\console-programming.csproj.CoreCompileInputs.cache
+D:\csTemelleri\console-programming\obj\Debug\net5.0\console-programming.dll
+D:\csTemelleri\console-programming\obj\Debug\net5.0\ref\console-programming.dll
+D:\csTemelleri\console-programming\obj\Debug\net5.0\console-programming.pdb
+D:\csTemelleri\console-programming\obj\Debug\net5.0\console-programming.genruntimeconfig.cache
