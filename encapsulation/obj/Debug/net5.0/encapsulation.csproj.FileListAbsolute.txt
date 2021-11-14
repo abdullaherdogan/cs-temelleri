@@ -1,0 +1,16 @@
+D:\csTemelleri\encapsulation\bin\Debug\net5.0\encapsulation.exe
+D:\csTemelleri\encapsulation\bin\Debug\net5.0\encapsulation.deps.json
+D:\csTemelleri\encapsulation\bin\Debug\net5.0\encapsulation.runtimeconfig.json
+D:\csTemelleri\encapsulation\bin\Debug\net5.0\encapsulation.runtimeconfig.dev.json
+D:\csTemelleri\encapsulation\bin\Debug\net5.0\encapsulation.dll
+D:\csTemelleri\encapsulation\bin\Debug\net5.0\ref\encapsulation.dll
+D:\csTemelleri\encapsulation\bin\Debug\net5.0\encapsulation.pdb
+D:\csTemelleri\encapsulation\obj\Debug\net5.0\encapsulation.csprojAssemblyReference.cache
+D:\csTemelleri\encapsulation\obj\Debug\net5.0\encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\csTemelleri\encapsulation\obj\Debug\net5.0\encapsulation.AssemblyInfoInputs.cache
+D:\csTemelleri\encapsulation\obj\Debug\net5.0\encapsulation.AssemblyInfo.cs
+D:\csTemelleri\encapsulation\obj\Debug\net5.0\encapsulation.csproj.CoreCompileInputs.cache
+D:\csTemelleri\encapsulation\obj\Debug\net5.0\encapsulation.dll
+D:\csTemelleri\encapsulation\obj\Debug\net5.0\ref\encapsulation.dll
+D:\csTemelleri\encapsulation\obj\Debug\net5.0\encapsulation.pdb
+D:\csTemelleri\encapsulation\obj\Debug\net5.0\encapsulation.genruntimeconfig.cache
