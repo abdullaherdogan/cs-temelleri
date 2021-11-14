@@ -1,0 +1,16 @@
+D:\csTemelleri\constructors\bin\Debug\net5.0\constructors.exe
+D:\csTemelleri\constructors\bin\Debug\net5.0\constructors.deps.json
+D:\csTemelleri\constructors\bin\Debug\net5.0\constructors.runtimeconfig.json
+D:\csTemelleri\constructors\bin\Debug\net5.0\constructors.runtimeconfig.dev.json
+D:\csTemelleri\constructors\bin\Debug\net5.0\constructors.dll
+D:\csTemelleri\constructors\bin\Debug\net5.0\ref\constructors.dll
+D:\csTemelleri\constructors\bin\Debug\net5.0\constructors.pdb
+D:\csTemelleri\constructors\obj\Debug\net5.0\constructors.csprojAssemblyReference.cache
+D:\csTemelleri\constructors\obj\Debug\net5.0\constructors.GeneratedMSBuildEditorConfig.editorconfig
+D:\csTemelleri\constructors\obj\Debug\net5.0\constructors.AssemblyInfoInputs.cache
+D:\csTemelleri\constructors\obj\Debug\net5.0\constructors.AssemblyInfo.cs
+D:\csTemelleri\constructors\obj\Debug\net5.0\constructors.csproj.CoreCompileInputs.cache
+D:\csTemelleri\constructors\obj\Debug\net5.0\constructors.dll
+D:\csTemelleri\constructors\obj\Debug\net5.0\ref\constructors.dll
+D:\csTemelleri\constructors\obj\Debug\net5.0\constructors.pdb
+D:\csTemelleri\constructors\obj\Debug\net5.0\constructors.genruntimeconfig.cache
