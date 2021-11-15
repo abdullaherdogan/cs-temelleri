@@ -1,0 +1,16 @@
+D:\csTemelleri\enums\bin\Debug\net5.0\enums.exe
+D:\csTemelleri\enums\bin\Debug\net5.0\enums.deps.json
+D:\csTemelleri\enums\bin\Debug\net5.0\enums.runtimeconfig.json
+D:\csTemelleri\enums\bin\Debug\net5.0\enums.runtimeconfig.dev.json
+D:\csTemelleri\enums\bin\Debug\net5.0\enums.dll
+D:\csTemelleri\enums\bin\Debug\net5.0\ref\enums.dll
+D:\csTemelleri\enums\bin\Debug\net5.0\enums.pdb
+D:\csTemelleri\enums\obj\Debug\net5.0\enums.csprojAssemblyReference.cache
+D:\csTemelleri\enums\obj\Debug\net5.0\enums.GeneratedMSBuildEditorConfig.editorconfig
+D:\csTemelleri\enums\obj\Debug\net5.0\enums.AssemblyInfoInputs.cache
+D:\csTemelleri\enums\obj\Debug\net5.0\enums.AssemblyInfo.cs
+D:\csTemelleri\enums\obj\Debug\net5.0\enums.csproj.CoreCompileInputs.cache
+D:\csTemelleri\enums\obj\Debug\net5.0\enums.dll
+D:\csTemelleri\enums\obj\Debug\net5.0\ref\enums.dll
+D:\csTemelleri\enums\obj\Debug\net5.0\enums.pdb
+D:\csTemelleri\enums\obj\Debug\net5.0\enums.genruntimeconfig.cache
