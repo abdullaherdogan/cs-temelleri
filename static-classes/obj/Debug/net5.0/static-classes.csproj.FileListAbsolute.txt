@@ -1,0 +1,16 @@
+D:\csTemelleri\static-classes\bin\Debug\net5.0\static-classes.exe
+D:\csTemelleri\static-classes\bin\Debug\net5.0\static-classes.deps.json
+D:\csTemelleri\static-classes\bin\Debug\net5.0\static-classes.runtimeconfig.json
+D:\csTemelleri\static-classes\bin\Debug\net5.0\static-classes.runtimeconfig.dev.json
+D:\csTemelleri\static-classes\bin\Debug\net5.0\static-classes.dll
+D:\csTemelleri\static-classes\bin\Debug\net5.0\ref\static-classes.dll
+D:\csTemelleri\static-classes\bin\Debug\net5.0\static-classes.pdb
+D:\csTemelleri\static-classes\obj\Debug\net5.0\static-classes.csprojAssemblyReference.cache
+D:\csTemelleri\static-classes\obj\Debug\net5.0\static-classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\csTemelleri\static-classes\obj\Debug\net5.0\static-classes.AssemblyInfoInputs.cache
+D:\csTemelleri\static-classes\obj\Debug\net5.0\static-classes.AssemblyInfo.cs
+D:\csTemelleri\static-classes\obj\Debug\net5.0\static-classes.csproj.CoreCompileInputs.cache
+D:\csTemelleri\static-classes\obj\Debug\net5.0\static-classes.dll
+D:\csTemelleri\static-classes\obj\Debug\net5.0\ref\static-classes.dll
+D:\csTemelleri\static-classes\obj\Debug\net5.0\static-classes.pdb
+D:\csTemelleri\static-classes\obj\Debug\net5.0\static-classes.genruntimeconfig.cache
