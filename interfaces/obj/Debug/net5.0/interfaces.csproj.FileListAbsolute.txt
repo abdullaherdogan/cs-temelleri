@@ -1,0 +1,16 @@
+D:\csTemelleri\interfaces\bin\Debug\net5.0\interfaces.exe
+D:\csTemelleri\interfaces\bin\Debug\net5.0\interfaces.deps.json
+D:\csTemelleri\interfaces\bin\Debug\net5.0\interfaces.runtimeconfig.json
+D:\csTemelleri\interfaces\bin\Debug\net5.0\interfaces.runtimeconfig.dev.json
+D:\csTemelleri\interfaces\bin\Debug\net5.0\interfaces.dll
+D:\csTemelleri\interfaces\bin\Debug\net5.0\ref\interfaces.dll
+D:\csTemelleri\interfaces\bin\Debug\net5.0\interfaces.pdb
+D:\csTemelleri\interfaces\obj\Debug\net5.0\interfaces.csprojAssemblyReference.cache
+D:\csTemelleri\interfaces\obj\Debug\net5.0\interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\csTemelleri\interfaces\obj\Debug\net5.0\interfaces.AssemblyInfoInputs.cache
+D:\csTemelleri\interfaces\obj\Debug\net5.0\interfaces.AssemblyInfo.cs
+D:\csTemelleri\interfaces\obj\Debug\net5.0\interfaces.csproj.CoreCompileInputs.cache
+D:\csTemelleri\interfaces\obj\Debug\net5.0\interfaces.dll
+D:\csTemelleri\interfaces\obj\Debug\net5.0\ref\interfaces.dll
+D:\csTemelleri\interfaces\obj\Debug\net5.0\interfaces.pdb
+D:\csTemelleri\interfaces\obj\Debug\net5.0\interfaces.genruntimeconfig.cache
