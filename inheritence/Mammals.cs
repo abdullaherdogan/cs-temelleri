@@ -5,6 +5,7 @@ public class Mammals:Animals
     public Mammals()
     {
         base.MoveAbility();
+        base.Reaction();
     }
     public void Birth()
     {

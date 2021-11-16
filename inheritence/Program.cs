@@ -10,6 +10,7 @@ namespace inheritence
             Whale.Birth();
             Plants Daisy = new Plants();
             Daisy.Photosynthesis();
+            Daisy.Reaction();
             
         }
     }

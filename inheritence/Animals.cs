@@ -11,4 +11,9 @@ public class Animals:Creatures
     {
         Console.WriteLine("Animals can move");
     }
+    public override void Reaction()
+    {
+        base.Reaction();
+        Console.WriteLine("Animals reacts to effect");
+    }
 }
