@@ -1,0 +1,16 @@
+D:\csTemelleri\abstracts\bin\Debug\net5.0\abstracts.exe
+D:\csTemelleri\abstracts\bin\Debug\net5.0\abstracts.deps.json
+D:\csTemelleri\abstracts\bin\Debug\net5.0\abstracts.runtimeconfig.json
+D:\csTemelleri\abstracts\bin\Debug\net5.0\abstracts.runtimeconfig.dev.json
+D:\csTemelleri\abstracts\bin\Debug\net5.0\abstracts.dll
+D:\csTemelleri\abstracts\bin\Debug\net5.0\ref\abstracts.dll
+D:\csTemelleri\abstracts\bin\Debug\net5.0\abstracts.pdb
+D:\csTemelleri\abstracts\obj\Debug\net5.0\abstracts.csprojAssemblyReference.cache
+D:\csTemelleri\abstracts\obj\Debug\net5.0\abstracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\csTemelleri\abstracts\obj\Debug\net5.0\abstracts.AssemblyInfoInputs.cache
+D:\csTemelleri\abstracts\obj\Debug\net5.0\abstracts.AssemblyInfo.cs
+D:\csTemelleri\abstracts\obj\Debug\net5.0\abstracts.csproj.CoreCompileInputs.cache
+D:\csTemelleri\abstracts\obj\Debug\net5.0\abstracts.dll
+D:\csTemelleri\abstracts\obj\Debug\net5.0\ref\abstracts.dll
+D:\csTemelleri\abstracts\obj\Debug\net5.0\abstracts.pdb
+D:\csTemelleri\abstracts\obj\Debug\net5.0\abstracts.genruntimeconfig.cache
