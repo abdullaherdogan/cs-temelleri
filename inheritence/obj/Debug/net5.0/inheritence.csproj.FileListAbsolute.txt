@@ -1,0 +1,16 @@
+D:\csTemelleri\inheritence\bin\Debug\net5.0\inheritence.exe
+D:\csTemelleri\inheritence\bin\Debug\net5.0\inheritence.deps.json
+D:\csTemelleri\inheritence\bin\Debug\net5.0\inheritence.runtimeconfig.json
+D:\csTemelleri\inheritence\bin\Debug\net5.0\inheritence.runtimeconfig.dev.json
+D:\csTemelleri\inheritence\bin\Debug\net5.0\inheritence.dll
+D:\csTemelleri\inheritence\bin\Debug\net5.0\ref\inheritence.dll
+D:\csTemelleri\inheritence\bin\Debug\net5.0\inheritence.pdb
+D:\csTemelleri\inheritence\obj\Debug\net5.0\inheritence.csprojAssemblyReference.cache
+D:\csTemelleri\inheritence\obj\Debug\net5.0\inheritence.GeneratedMSBuildEditorConfig.editorconfig
+D:\csTemelleri\inheritence\obj\Debug\net5.0\inheritence.AssemblyInfoInputs.cache
+D:\csTemelleri\inheritence\obj\Debug\net5.0\inheritence.AssemblyInfo.cs
+D:\csTemelleri\inheritence\obj\Debug\net5.0\inheritence.csproj.CoreCompileInputs.cache
+D:\csTemelleri\inheritence\obj\Debug\net5.0\inheritence.dll
+D:\csTemelleri\inheritence\obj\Debug\net5.0\ref\inheritence.dll
+D:\csTemelleri\inheritence\obj\Debug\net5.0\inheritence.pdb
+D:\csTemelleri\inheritence\obj\Debug\net5.0\inheritence.genruntimeconfig.cache
