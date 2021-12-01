@@ -1,0 +1,16 @@
+D:\csTemelleri\CounterStrike\bin\Debug\net5.0\CounterStrike.exe
+D:\csTemelleri\CounterStrike\bin\Debug\net5.0\CounterStrike.deps.json
+D:\csTemelleri\CounterStrike\bin\Debug\net5.0\CounterStrike.runtimeconfig.json
+D:\csTemelleri\CounterStrike\bin\Debug\net5.0\CounterStrike.runtimeconfig.dev.json
+D:\csTemelleri\CounterStrike\bin\Debug\net5.0\CounterStrike.dll
+D:\csTemelleri\CounterStrike\bin\Debug\net5.0\ref\CounterStrike.dll
+D:\csTemelleri\CounterStrike\bin\Debug\net5.0\CounterStrike.pdb
+D:\csTemelleri\CounterStrike\obj\Debug\net5.0\CounterStrike.csprojAssemblyReference.cache
+D:\csTemelleri\CounterStrike\obj\Debug\net5.0\CounterStrike.GeneratedMSBuildEditorConfig.editorconfig
+D:\csTemelleri\CounterStrike\obj\Debug\net5.0\CounterStrike.AssemblyInfoInputs.cache
+D:\csTemelleri\CounterStrike\obj\Debug\net5.0\CounterStrike.AssemblyInfo.cs
+D:\csTemelleri\CounterStrike\obj\Debug\net5.0\CounterStrike.csproj.CoreCompileInputs.cache
+D:\csTemelleri\CounterStrike\obj\Debug\net5.0\CounterStrike.dll
+D:\csTemelleri\CounterStrike\obj\Debug\net5.0\ref\CounterStrike.dll
+D:\csTemelleri\CounterStrike\obj\Debug\net5.0\CounterStrike.pdb
+D:\csTemelleri\CounterStrike\obj\Debug\net5.0\CounterStrike.genruntimeconfig.cache
